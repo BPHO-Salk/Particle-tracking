@@ -15,9 +15,6 @@ This script is used for particle tracking of live cell images.
     Imaris installation directory) needs to be put in the same folder.
   - Imaris needs to be running when executing the following code. 
 
-(C) Copyright 2018               Waitt Advanced Biophotonics Core
-    All rights reserved          Salk Institute for Biological Studies
-                                 10010 N Torrey Pines Rd.
-                                 San Diego, CA 92037
-                                 The United States
-Linjing Fang 08-02-2018
+(C) Copyright 2018, All rights reserved. Waitt Advanced Biophotonics Core, Salk Institute for Biological Studies, 10010 N Torrey Pines Rd., San Diego, CA 92037, The United States
+
+Linjing Fang, May 2018
